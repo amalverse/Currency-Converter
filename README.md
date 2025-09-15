@@ -1,3 +1,4 @@
+Click to open App- https://htmlpreview.github.io/?https://github.com/amalverse/Currency-Converter/blob/main/index.html
 # Currency Converter App
 
 A simple and interactive web application to convert currencies in real-time using live exchange rates. Built with HTML, CSS, and JavaScript.
